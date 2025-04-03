@@ -1,4 +1,3 @@
-// main.dart - Main application file
 import 'package:flutter/material.dart';
 import 'package:flutter_blue/flutter_blue.dart';
 import 'package:charts_flutter/flutter.dart' as charts;
